@@ -1,2 +1,5 @@
 .env
 .venv
+graph.png
+.langgraph_api
+__pycache__
